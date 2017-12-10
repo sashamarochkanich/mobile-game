@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2f91ee075f3a8443916159c86d2dc66
+timeCreated: 1512901201
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: McLawsuit
+  fontNames:
+  - McLawsuit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

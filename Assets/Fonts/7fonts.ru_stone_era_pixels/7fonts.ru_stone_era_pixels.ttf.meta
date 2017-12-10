@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4f8ad557527219a4e9b7d26b95d47dcf
+timeCreated: 1512901136
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stone Era Pixels
+  fontNames:
+  - Stone Era Pixels
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
