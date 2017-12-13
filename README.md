@@ -1,5 +1,10 @@
 # mobile-game
 
+
+## Посилання на звіти:
+Лабораторна робота 1: https://docs.google.com/document/d/1kp1P50VbB1ZNLWgQ5rbFl58Vnh4du1YqQNk0umRyafA
+Лабораторна робота 2: https://docs.google.com/document/d/1ob6IziO2o_a30qjxQIPlAuewInOzaJoBVFU1egh4lm4
+
 ## Опис ідеї продукту:
 Мобільна гра заключається в перепригуванні між маленькими платформами кубиком.
 
